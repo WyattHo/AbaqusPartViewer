@@ -1,5 +1,5 @@
 # AbaqusPartViewer
-Read Abaqus input file and show mesh
+Read Abaqus input file and show the mesh.
 
 ## Requirements
 * tkinter 
